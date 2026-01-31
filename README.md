@@ -26,5 +26,10 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1eed74d4-b3a6-4395-98f6-fa70d8d905dd" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/007f8183-4b95-4265-ac0d-32aa123467f5" />
+
 
 ### Result:
+The RapidMiner model successfully classified the textual data into positive, negative, and neutral sentiments.
+
